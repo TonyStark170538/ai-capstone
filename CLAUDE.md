@@ -18,6 +18,13 @@ AI engineering capstone project.
 - Prefer async/await
 - Keep functions simple
 - Add comments when useful
+- Use meaningful variable and function names
+- Prefer small, focused modules over large files
+- Handle errors explicitly; avoid silent failures
+- Validate inputs at module boundaries
+- Avoid deeply nested logic; extract helpers when needed
+- Do not commit secrets, API keys, or `.env` values
+- Match existing project style before introducing new patterns
 
 ## Git Rules
 
